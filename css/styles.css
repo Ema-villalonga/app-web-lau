@@ -1,0 +1,10 @@
+.nav-bar {
+    display: flex;
+    width: 100%;
+    background-color: blue;
+    font-size: 18px;
+}
+
+.nav-bar ul li {
+    text-decoration: none;
+}
